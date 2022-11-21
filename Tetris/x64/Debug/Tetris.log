@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\delibas\Desktop\SoftwareDevelopment\C++\Tetris-Game\Tetris\Tetris\main.cpp(38,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\delibas\Desktop\SoftwareDevelopment\C++\Tetris-Game\Tetris\Tetris\main.cpp(50,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\delibas\Desktop\SoftwareDevelopment\C++\Tetris-Game\Tetris\Tetris\main.cpp(72,65): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\delibas\Desktop\SoftwareDevelopment\C++\Tetris-Game\Tetris\Tetris\main.cpp(126,40): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\delibas\Desktop\SoftwareDevelopment\C++\Tetris-Game\Tetris\Tetris\main.cpp(137,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\delibas\Desktop\SoftwareDevelopment\C++\Tetris-Game\Tetris\Tetris\main.cpp(137,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\delibas\Desktop\SoftwareDevelopment\C++\Tetris-Game\Tetris\Tetris\main.cpp(145,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\delibas\Desktop\SoftwareDevelopment\C++\Tetris-Game\Tetris\Tetris\main.cpp(145,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\Users\delibas\Desktop\SoftwareDevelopment\C++\Tetris-Game\Tetris\x64\Debug\Tetris.exe
